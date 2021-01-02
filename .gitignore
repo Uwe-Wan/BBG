@@ -11,3 +11,5 @@ packages/
 .class
 
 .~lock
+
+.idea/
