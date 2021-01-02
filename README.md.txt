@@ -1,0 +1,1 @@
+This is a Backgammon App. It shall be possible that two human players play a game against each other.
