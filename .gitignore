@@ -13,3 +13,4 @@ packages/
 .~lock
 
 .idea/
+/.metadata/

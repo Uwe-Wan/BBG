@@ -1,0 +1,2 @@
+module bbg.UserManagementService.Logic {
+}
