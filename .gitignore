@@ -1,17 +1,19 @@
-packages/
-
+# general project patterns
 **/bin/
-
 **/obj/
+**/build/
+**/packages/
 
-.vs/
-
+# Editor specific patterns
 .suo
+.user
+**/.vs/
+**/.metadata/
+# this might need to be refined. Some of the files in the .idea folder seem to best be put under version control
+**/.idea/
 
+# Language specific patterns
 .class
 
-.~lock
-.doc#
-
-.idea/
-/.metadata/
+# Open Office specific patterns
+*.~lock*
