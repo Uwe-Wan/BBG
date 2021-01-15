@@ -1,3 +1,3 @@
-module BBG.Entities {
-    exports BBG.Entities;
+module Entities {
+    exports Entities;
 }

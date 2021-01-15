@@ -1,0 +1,4 @@
+rootProject.name = 'UserManagementService'
+include 'Entities'
+include 'API'
+
