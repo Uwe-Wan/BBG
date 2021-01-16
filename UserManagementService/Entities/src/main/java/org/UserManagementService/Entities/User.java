@@ -1,3 +1,8 @@
+package org.UserManagementService.Entities;
+
+import javax.persistance.entity;
+import javax.persistance.id;
+
 @Entity
 public class User{
     @Id
@@ -30,7 +35,7 @@ public class User{
         return passwordHash;
     }
 
-    public void setPasswordHash(String newPasswordHash){
+    public void setPasswordHash(int newPasswordHash){
         passwordHash = newPasswordHash;
     }
 }

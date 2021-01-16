@@ -1,2 +1,0 @@
-org/userManagementService/api/GetUserApi.java
- org.userManagementService.api.GetUserApi
