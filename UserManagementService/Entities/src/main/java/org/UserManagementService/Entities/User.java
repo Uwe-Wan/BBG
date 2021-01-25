@@ -1,7 +1,7 @@
 package org.UserManagementService.Entities;
 
-import javax.persistance.entity;
-import javax.persistance.id;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 
 @Entity
 public class User{
